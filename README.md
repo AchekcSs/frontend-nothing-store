@@ -4,7 +4,7 @@ Nothing Official Store is a responsive landing page for a technology store. It p
 
 ## Live Preview
 
-[View the live website](https://achekcss.github.io/frontend-to-do-app/)
+[View the live website](https://achekcss.github.io/frontend-nothing-store/)
 
 ## Technologies Used
 
@@ -19,8 +19,8 @@ Nothing Official Store is a responsive landing page for a technology store. It p
 ### Clone the repository
 
 ```bash
-git clone https://github.com/AchekcSs/frontend-to-do-app.git
-cd frontend-to-do-app
+git clone https://github.com/AchekcSs/frontend-nothing-store.git
+cd frontend-nothing-store
 ```
 
 ### Install dependencies
