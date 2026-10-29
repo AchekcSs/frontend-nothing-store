@@ -4,7 +4,7 @@
   "description": "Frontend boilerplate based on gulp",
   "scripts": {
     "init": "mate-scripts init",
-    "start": "parcel index.html",
+    "start": "mate-scripts start",
     "lint": "mate-scripts lint",
     "test:only": "mate-scripts test",
     "build": "mate-scripts build",
