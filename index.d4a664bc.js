@@ -1,0 +1,2 @@
+const e=document.body,t=document.querySelector("#menu"),n=document.querySelector("#menu-open-button"),i=document.querySelector("#menu-close-button"),r=i=>{t.classList.toggle("menu--visible",i),e.classList.toggle("body--menu-open",i),n.setAttribute("aria-expanded",String(i)),t.setAttribute("aria-hidden",String(!i)),i?t.removeAttribute("inert"):t.setAttribute("inert","")};r(!1),n.addEventListener("click",()=>{r(!0)}),i.addEventListener("click",()=>{r(!1)});
+//# sourceMappingURL=index.d4a664bc.js.map

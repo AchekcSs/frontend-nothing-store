@@ -1,0 +1,2 @@
+var e,t,n,i,u;e=document.body,t=document.querySelector("#menu"),n=document.querySelector("#menu-open-button"),i=document.querySelector("#menu-close-button"),(u=function(i){t.classList.toggle("menu--visible",i),e.classList.toggle("body--menu-open",i),n.setAttribute("aria-expanded",String(i)),t.setAttribute("aria-hidden",String(!i)),i?t.removeAttribute("inert"):t.setAttribute("inert","")})(!1),n.addEventListener("click",function(){u(!0)}),i.addEventListener("click",function(){u(!1)});
+//# sourceMappingURL=index.cc79d072.js.map
